@@ -95,5 +95,3 @@ don't, the next week will override the last document.
 
 May the force be with you. 🤖
 =======
-# time-tracker
->>>>>>> 38df0ccb7967143d2a6c0ad8eb5b32b5f7d3576a

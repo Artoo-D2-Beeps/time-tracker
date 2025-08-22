@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⏱️ Time Tracker CLI Tool
 
 A simple yet powerful command-line tool to track work hours using charge codes. Built in Python with a focus on clean logs, flexible time input, and self-healing storage.
@@ -93,3 +94,6 @@ Save weekly document...weekly as a different name. I have folders for each month
 don't, the next week will override the last document.
 
 May the force be with you. 🤖
+=======
+# time-tracker
+>>>>>>> 38df0ccb7967143d2a6c0ad8eb5b32b5f7d3576a

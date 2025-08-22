@@ -1,0 +1,4 @@
+time-tracker/logs/
+__pycache__/
+*.pyc
+*_backup.json

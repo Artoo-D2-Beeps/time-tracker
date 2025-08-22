@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⏱️ Time Tracker CLI Tool
 
 A simple yet powerful command-line tool to track work hours using charge codes. Built in Python with a focus on clean logs, flexible time input, and self-healing storage.
